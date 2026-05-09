@@ -33,7 +33,7 @@ The skill auto-resolves its script paths, so it works from any project directory
 ## Usage
 
 ```
-/mendix-pentest https://your-target.mendixcloud.com
+/mxsploit https://your-target.mendixcloud.com
 ```
 
 Claude will run through five phases automatically:
